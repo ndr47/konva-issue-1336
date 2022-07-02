@@ -4,3 +4,4 @@ const stage = new Konva.Stage({
         width: 1920,
         height: 1080
 });
+console.log(stage);
